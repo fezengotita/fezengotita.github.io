@@ -34,11 +34,4 @@ venue: "University of Notre dame, Department of Civil and Environmental Engineer
 date: 2020-08-27 to 2022-12-20
 location: "Notre Dame, USA"
 description: Helpepd set up laboratories, created columns for undergraduate students, sampled water samples from nearby lake. Looked over tests. This was an engineering course.
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+---
